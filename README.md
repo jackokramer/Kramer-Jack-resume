@@ -50,4 +50,4 @@ Entered a fullstack bootcamp where I learned how to create a full CRUD applicati
 * Mocha
 * Qunit
 
-added my business card too which is....
+added my business card too which is (https://business-card-kramer-jack-suotu.ondigitalocean.app/) hosted on digital ocean using react.
