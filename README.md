@@ -2,9 +2,9 @@
 MY CV
 
 # Jack Quentin Kramer
-I'm a certified fullstack developer, with experience as a Front End Developer for corporate giant clients.
+I'm a certified fullstack developer, with experience as a Front End Developer for a couple of the corporate giant.
 
-I enjoy building digital products that either solve problems or entertain people. Preferrably in Javascript or Python.
+I enjoy building applications that either solve problems or can be used as tools. I'm well versed in Python(Django) and JavaScript(React, Angular, Vue).
 
 I'm oragnized, transparent, meticulous and easy going. I also hold a bachelors degree in Environmental Science and Spanish.
 
