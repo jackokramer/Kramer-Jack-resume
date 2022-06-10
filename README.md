@@ -19,6 +19,7 @@ Worked as a front end developer at Apple on a internal website for retail employ
 Entered a fullstack bootcamp where I learned how to create a full CRUD application in under 5 hours for Python as well as in Java. I spent over 3000 hours working on excercises and completed a couple of projects I've submitted as repositories.
 - Jam with Friends
 - Beem Wilder's Meditation Blog
+- -Intel Shopper Recomendation Tool 
 
 
 ## Technical skills:
