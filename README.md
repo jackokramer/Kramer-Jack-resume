@@ -1,5 +1,5 @@
 # resume
-MY CV -UPDATED-MORE POSITIONS
+MY CV -UPDATED-
 
 # Jack Quentin Kramer
 I'm a certified fullstack developer, with experience as a Front End Developer for a couple of the corporate giant.
